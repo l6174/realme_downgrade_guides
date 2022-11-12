@@ -59,7 +59,7 @@ Output should be like this:
 
 13. Enjoy!!
 
-### Credits ~
+### 👤 Credits ~
 - Jash Gro for original guide.
 - Bjoern Kerler for his tool.
 - Anestis Bechtsoudis for simg2img.
