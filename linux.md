@@ -1,6 +1,6 @@
 ### >Works on both RUI-1 and RUI-2
 ## ⏪ Requirements:
-- **PC/Laptop with Linux**
+### > **PC/Laptop with Linux**
 
 ### > **Python: (Execute in Terminal)**
 - UBUNTU/DEBIAN:
@@ -60,7 +60,7 @@ bootloop continue to next step.
 
 4. Right Click > Open Terminal Here
 
-5. 5) Execute `./brom.sh`
+5. Execute `./brom.sh`
 
 6. Press and Hold both volume buttons and connect your
 device to PC through USB Cable. (Incase it’s in Bricked or
