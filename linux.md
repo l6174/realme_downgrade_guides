@@ -2,7 +2,7 @@
 ## ⏪ Requirements:
 - **PC/Laptop with Linux**
 
-### **Python: (Execute in Terminal)**
+### > **Python: (Execute in Terminal)**
 - UBUNTU/DEBIAN:
   - `sudo apt-get install python`
   - `python -m ensurepip –-upgrade`
@@ -16,16 +16,16 @@
   - `python -m ensurepip –-upgrade`
   - `python3 -m pip install pyusb pyserial json5`
 
-### [**SP Flash Tool**](https://spflashtool.com/download/)
+### > [**SP Flash Tool**](https://spflashtool.com/download/)
 
-### **libusb: (Execute in Terminal)**
+### > **libusb: (Execute in Terminal)**
 - UBUNTU/DEBIAN:
   - `sudo apt-get install libusb libmtp libmtp-runtime`
 - ARCH/MANJARO:
   - `sudo pacman -S libusb libusb-compat libusbmuxd gvfs-mtp libmtp`
 - For any other distro search on Google.
 
-### **libpng: (Execute in Terminal)**
+### > **libpng: (Execute in Terminal)**
 - UBUNTU/DEBIAN:
   - [Download](http://launchpadlibrarian.net/233197129/libpng12-0_1.2.54-1ubuntu1_amd64.deb)
   - Right click on downloaded file > Install
@@ -34,9 +34,9 @@
   -  Execute this in Terminal
 - For any other distro search on Google.
 
-### **Bypass Files:** [**Download**](https://drive.google.com/uc?id=1cIVcoSzGCSeDDxC0Qwv5FeNeJUuruzYu&export=download)
+### > **Bypass Files:** [**Download**](https://drive.google.com/uc?id=1cIVcoSzGCSeDDxC0Qwv5FeNeJUuruzYu&export=download)
 
-### **Firmware:** [**RUI-1**](https://caplevi.sayeed.workers.dev/0:/Bot%20Mirror/RMX2191_11_A.23-spft.7z)**/**[**RUI-2**](https://www.mediafire.com/file/du4d4rtheogjqf8/Realme_Firmware_C.18_RMX2193.zip/file)**//**[**RUI-2 Mod**](https://t.me/Realme_Narzo_20/407)
+### > **Firmware:** [**RUI-1**](https://caplevi.sayeed.workers.dev/0:/Bot%20Mirror/RMX2191_11_A.23-spft.7z)**/**[**RUI-2**](https://www.mediafire.com/file/du4d4rtheogjqf8/Realme_Firmware_C.18_RMX2193.zip/file)**//**[**RUI-2 Mod**](https://t.me/Realme_Narzo_20/407)
 
 ## 📝 Notes:
 - Bootloader unlock or lock status doesn't matter (Not applicable for Mod RUI-2).
