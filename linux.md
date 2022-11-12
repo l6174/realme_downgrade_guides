@@ -1,3 +1,4 @@
+# Unbrick/Downgrade guide for realme Narzo 20/7i(EU)
 ### >Works on both RUI-1 and RUI-2
 ## ⏪ Requirements:
 ### > **PC/Laptop with Linux**
