@@ -93,17 +93,23 @@ lib usb properly and try again.
 
 16. Select scatter file from ofp/MT6768_Android_scatter.txt
 
-17. Now Go to Options in SP Flash Tool (Top Left) Then connection, Select UART and Set Baud rate to *921600*
+17. Untick these partitions if you don't want OTA updates (optional):
+- Opporeserve2
+- Special preload
+- My custom
+- Cdt engineering 
 
-18. Make sure it is on “Download Only” Mode otherwise be ready to buy new motherboard.
+18. Now Go to Options in SP Flash Tool (Top Left) Then connection, Select UART and Set Baud rate to *921600*
 
-19. Click on Green Download Button (If any error comes repeat step 17 again).
+19. Make sure it is on “Download Only” Mode otherwise be ready to buy new motherboard.
 
-20. Green Check Mark will Appear after flashing done.
+20. Click on Green Download Button (If any error comes repeat step 17 again).
 
-21. Remove Cable wait 10 Sec then reboot.
+21. Green Check Mark will Appear after flashing done.
 
-22. Enjoy!!
+22. Remove Cable wait 10 Sec then reboot.
+
+23. Enjoy!!
 
 ### 👤 Credits ~
 - Jash Gro for original guide.
