@@ -9,7 +9,7 @@
 > SP Flash Tool
 
 > Firmware: RUI-1/RUI-2//RUI-2 Mod
-## Notes
+## Notes:
 > Bootloader unlock or lock status doesn't matter.
 
 > For RUI-2: After flashing RUI 2.0 it will boot till realme UI yellow logo once then it will suck at realme's white logo. Don't do anything stay there at least for 20 minutes, it will boot to recovery mode. Do format data enter that code thing > Ok.
@@ -20,3 +20,6 @@
 ![Important Image](Important.jpg)
 
 **Modded RUI-2 won't work in locked bootloader and don't try to lock bootloader after flashing it.**
+## Procedure:
+1. Run Python Installer (Tick add python to path).
+![Python](python.jpg)
