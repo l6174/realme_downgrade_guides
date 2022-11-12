@@ -1,5 +1,5 @@
 ### >Works on both RUI-1 and RUI-2
-## Requirements:
+## ⏪ Requirements:
 > PC/Laptop
 
 > [Bypass tool + libusb](https://www.mediafire.com/file/20xsc7k564iklor/libusb_and_MTK_bypass.zip/file)
@@ -9,7 +9,7 @@
 > [SP Flash Tool](https://spflashtool.com/download/)
 
 > Firmware: [RUI-1](https://caplevi.sayeed.workers.dev/0:/Bot%20Mirror/RMX2191_11_A.23-spft.7z)/[RUI-2](https://www.mediafire.com/file/du4d4rtheogjqf8/Realme_Firmware_C.18_RMX2193.zip/file)//[RUI-2 Mod](https://t.me/Realme_Narzo_20/407)
-## Notes:
+## 📝 Notes:
 - Bootloader unlock or lock status doesn't matter (Not applicable for Mod RUI-2).
 
 - For RUI-2: After flashing RUI 2.0 it will boot till realme UI yellow logo once then it will suck at realme's white logo. Don't do anything stay there at least for 20 minutes, it will boot to recovery mode. Do format data enter that code thing > Ok.
@@ -21,7 +21,7 @@
 ![Important Image](Important.jpg)
 
 - **Modded RUI-2 won't work in locked bootloader and don't try to lock bootloader after flashing it.**
-## Procedure:
+## ⏩ Procedure:
 1. Run Python Installer (Tick add python to path).
 
 ![Python](python.jpg)
