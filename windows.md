@@ -14,7 +14,7 @@
 
 - For RUI-2: After flashing RUI 2.0 it will boot till realme UI yellow logo once then it will suck at realme's white logo. Don't do anything stay there at least for 20 minutes, it will boot to recovery mode. Do format data enter that code thing > Ok.
 
-- Join group of any kind of support: [Click Here](telegram.dog/realme_narzo_20_group)
+- Join group of any kind of support: [Click Here](https://telegram.dog/realme_narzo_20_group)
 ## ⚠️ Warning:
 - **Please make sure it is in _download only_ mode otherwise be ready to buy new motherboard.**
 
