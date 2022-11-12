@@ -41,17 +41,23 @@ Output should be like this:
 
 7. Extract firmware, Select scatter file in SP Flash Tool from extracted firmware. (MT6768_Android_Scatter.txt)
 
-8. Please make sure it is in "Download Only" mode else be ready to buy new motherboard.
+8. Untick these partitions if you don't want OTA updates (optional):
+- Opporeserve2
+- Special preload
+- My custom
+- Cdt engineering
 
-9. Press Green Download Button.
+9. Please make sure it is in "Download Only" mode else be ready to buy new motherboard.
 
-10. After flashing a "Green Checkmark" will appear like this:
+10. Press Green Download Button.
+
+11. After flashing a "Green Checkmark" will appear like this:
 
 ![Flashing Done](flash_output.jpg)
 
-11. Remove USB Cable, wait 10 seconds and hold power button.
+12. Remove USB Cable, wait 10 seconds and hold power button.
 
-12. Enjoy!!
+13. Enjoy!!
 
 ### Credits ~
 - Jash Gro for original guide.
