@@ -12,4 +12,5 @@
 ## ⚠️ Warning:
 **Please make sure it is in _download only_ mode otherwise be ready to buy new motherboard.**
 ![Important Image](Important.jpg)
+
 **Modded RUI-2 won't work in locked bootloader and don't try to lock bootloader after flashing it.**
