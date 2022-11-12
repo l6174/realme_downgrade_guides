@@ -35,7 +35,7 @@ Output should be like this:
 
 5. You can release volume buttons now.
 6. Now extract SP Flash Tool zip and run FlashTool.exe
-7. Extract firmware.
+7. Extract firmware, Select scatter file in SP Flash Tool from extracted firmware. (MT6768_Android_Scatter.txt)
 8. Please make sure it is in "Download Only" mode else be ready to buy new motherboard.
 9. Press Green Download Button.
 10. After flashing a "Green Checkmark" will appear like this:
