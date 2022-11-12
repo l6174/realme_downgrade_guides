@@ -2,13 +2,13 @@
 ## Requirements:
 > PC/Laptop
 
-> Bypass tool + libusb
+> [Bypass tool + libusb](https://www.mediafire.com/file/20xsc7k564iklor/libusb_and_MTK_bypass.zip/file)
 
-> Python
+> [Python](https://www.python.org/downloads/release/python-3110/)
 
-> SP Flash Tool
+> [SP Flash Tool](https://spflashtool.com/download/)
 
-> Firmware: RUI-1/RUI-2//RUI-2 Mod
+> Firmware: [RUI-1](https://caplevi.sayeed.workers.dev/0:/Bot%20Mirror/RMX2191_11_A.23-spft.7z)/[RUI-2](https://www.mediafire.com/file/du4d4rtheogjqf8/Realme_Firmware_C.18_RMX2193.zip/file)//[RUI-2 Mod](https://t.me/Realme_Narzo_20/407)
 ## Notes:
 > Bootloader unlock or lock status doesn't matter.
 
@@ -26,7 +26,7 @@
 
 ![Python](python.jpg)
 
-2. Install libusb and Launch tool named mtk_bypass_rev3.exe (turn off realtime protection if it is getting detected as a Virus).
+2. Install libusb and Launch tool named mtk_bypass_rev4.exe (turn off realtime protection if it is getting detected as a Virus).
 
 3. Power off your device. // In case it is bricked (or at bootloop) proceed to next step.
 
