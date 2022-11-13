@@ -114,6 +114,5 @@ lib usb properly and try again.
 
 ### 👤 Credits ~
 - Jash Gro for original guide.
-- Bjoern Kerler for his tool.
 - Anestis Bechtsoudis for simg2img.
 - Eternal for helping.
