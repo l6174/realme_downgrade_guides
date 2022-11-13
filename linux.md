@@ -104,7 +104,7 @@ lib usb properly and try again.
 
 19. Make sure it is on “Download Only” Mode otherwise be ready to buy new motherboard.
 
-20. Click on Green Download Button (If any error comes repeat step 17 again).
+20. Click on Green Download Button (If any error comes repeat step 18 again).
 
 21. Green Check Mark will Appear after flashing done.
 
