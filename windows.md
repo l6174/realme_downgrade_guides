@@ -31,7 +31,7 @@
 
 3. Power off your device. // In case it is bricked (or at bootloop) proceed to next step.
 
-4. Press Bypass button in tool, Hold botj volume buttons and connect your device to PC with a USB Cable. (If it's bricked or at bootloop, Hold all 3 buttons together until bypass is done.
+4. Press Bypass button in tool, Hold both volume buttons and connect your device to PC with a USB Cable. (If it's bricked or at bootloop, Hold all 3 buttons together until bypass is done.
 Output should be like this:
 
 ![Bypass Output](bypass_output.jpg)
