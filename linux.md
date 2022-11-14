@@ -75,12 +75,16 @@ lib usb properly and try again.
 9. Open Terminal, Execute these commands one by one:
 - `su` (Enter your root password after that)
 - `touch /etc/udev/rules.d/80-persistent-usb.rules`
-- ```
-- echo "SUBSYSTEM=="usb", ACTION=="add", ATTR{idVendor}=="0e8d", ATTR{idProduct}=="*"" >> /etc/udev/rules.d/80-persistent-usb.rules
-- ```
+```
+echo "SUBSYSTEM=="usb", ACTION=="add", ATTR{idVendor}=="0e8d", ATTR{idProduct}=="*"" >> /etc/udev/rules.d/80-persistent-usb.rules
+```
 - `touch /etc/udev/rules.d/20-mm-blacklist-mtk.rules`
-- ```echo "ATTRS{idVendor}=="0e8d", ENV{ID_MM_DEVICE_IGNORE}="1"" >> /etc/udev/rules.d/20-mm-blacklist-mtk.rules```
-- ```echo "ATTRS{idVendor}=="6000", ENV{ID_MM_DEVICE_IGNORE}="1"" >> /etc/udev/rules.d/20-mm-blacklist-mtk.rules```
+```
+echo "ATTRS{idVendor}=="0e8d", ENV{ID_MM_DEVICE_IGNORE}="1"" >> /etc/udev/rules.d/20-mm-blacklist-mtk.rules
+```
+```
+echo "ATTRS{idVendor}=="6000", ENV{ID_MM_DEVICE_IGNORE}="1"" >> /etc/udev/rules.d/20-mm-blacklist-mtk.rules
+```
 
 10. Now Extract SP Flash Tool Zip.
 
