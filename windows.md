@@ -9,7 +9,7 @@
 
 > [SP Flash Tool](https://spflashtool.com/download/)
 
-> Firmware: [RUI-1](https://caplevi.sayeed.workers.dev/0:/Bot%20Mirror/RMX2191_11_A.23-spft.7z)/[RUI-2](https://www.mediafire.com/file/du4d4rtheogjqf8/Realme_Firmware_C.18_RMX2193.zip/file)//[RUI-2 Mod](https://t.me/Realme_Narzo_20/407)
+> Firmware: [RUI-1](https://www.mediafire.com/file/qbsoykiuprhq0cv/Realme_RMX2193_A.23_Firmware.zip/file)/[RUI-2](https://www.mediafire.com/file/du4d4rtheogjqf8/Realme_Firmware_C.18_RMX2193.zip/file)//[RUI-2 Mod](https://t.me/Realme_Narzo_20/407)
 ## 📝 Notes:
 - Bootloader unlock or lock status doesn't matter (Not applicable for Mod RUI-2).
 
