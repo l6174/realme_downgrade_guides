@@ -28,7 +28,7 @@
 
 ### > **libpng: (Execute in Terminal)**
 - UBUNTU/DEBIAN:
-  - [Download](http://launchpadlibrarian.net/233197129/libpng12-0_1.2.54-1ubuntu1_amd64.deb)
+  - [Download](http://ppa.launchpad.net/linuxuprising/libpng12/ubuntu/pool/main/libp/libpng/libpng12-0_1.2.54-1ubuntu1.1+1~ppa0~impish0_amd64.deb)
   - Right click on downloaded file > Install
   - `ln -s libpng12.so.0.54.0 libpng12.so.0`
   - Execute this in Terminal
