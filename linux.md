@@ -5,7 +5,7 @@
 
 ### > **Python: (Execute in Terminal)**
 - UBUNTU/DEBIAN:
-  - `sudo apt-get install python`
+  - ```sudo apt-get install python```
   - `python -m ensurepip –-upgrade`
   - `python3 -m pip install pyusb pyserial json5`
 - ARCH/MANJARO:
