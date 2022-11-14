@@ -21,7 +21,7 @@
 
 ### > **libusb: (Execute in Terminal)**
 - UBUNTU/DEBIAN:
-  - `sudo apt-get install libusb libmtp libmtp-runtime`
+  - `sudo apt-get install libusb-dev libmtp libmtp-runtime libqtwebkit4`
 - ARCH/MANJARO:
   - `sudo pacman -S libusb libusb-compat libusbmuxd gvfs-mtp libmtp`
 - For any other distro search on Google.
@@ -30,6 +30,8 @@
 - UBUNTU/DEBIAN:
   - [Download](http://launchpadlibrarian.net/233197129/libpng12-0_1.2.54-1ubuntu1_amd64.deb)
   - Right click on downloaded file > Install
+  - `ln -s libpng12.so.0.54.0 libpng12.so.0`
+  - Execute this in Terminal
 - ARCH/MANJARO:
   -  `sudo pacman -S libpng12`
   -  Execute this in Terminal
