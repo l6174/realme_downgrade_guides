@@ -21,7 +21,7 @@
 
 ### > **libusb: (Execute in Terminal)**
 - UBUNTU/DEBIAN:
-  - `sudo apt-get install libusb-dev libmtp libmtp-runtime libqtwebkit4`
+  - `sudo apt-get install libusb-dev libmtp9 libmtp-runtime libqtwebkit4`
 - ARCH/MANJARO:
   - `sudo pacman -S libusb libusb-compat libusbmuxd gvfs-mtp libmtp`
 - For any other distro search on Google.
