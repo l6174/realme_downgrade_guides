@@ -102,7 +102,7 @@ echo "ATTRS{idVendor}=="6000", ENV{ID_MM_DEVICE_IGNORE}="1"" >> /etc/udev/rules.
 
 13. Execute `chmod +x flash_tool`
 
-14. Execute `su`, enter your password then execute `./flash_tool.sh`
+14. Execute `su`, enter your password then execute `./flash_tool`
 
 15. Extract Firmware
 
